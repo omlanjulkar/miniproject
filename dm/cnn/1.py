@@ -1,3 +1,5 @@
+# Implement the Selection Sort algorithm using recursion
+
 def selection_sort_recursive(arr, start=0):
     if start >= len(arr) - 1:
         return

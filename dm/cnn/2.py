@@ -1,3 +1,5 @@
+# Implement the Selection Sort algorithm using iteration
+
 def selection_sort_iterative(arr):
     for i in range(len(arr)):
         min_index = i

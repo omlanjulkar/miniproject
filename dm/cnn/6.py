@@ -1,3 +1,5 @@
+# Implement Quick Sort using the Divide and Conquer approach
+
 def quick_sort(arr):
     if len(arr) <= 1:
         return arr
